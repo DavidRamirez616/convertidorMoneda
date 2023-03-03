@@ -11,7 +11,7 @@ public class MenuInicio {
 		case "Convertidor de Divisa":
 			OperacionesDivisas divisa = new OperacionesDivisas();
 			break;
-		case "Convertidor de Unidades":
+		case "Convertidor de Unidades Masa":
 			OperacionUnidades Unidades = new OperacionUnidades();
 			break;
 
